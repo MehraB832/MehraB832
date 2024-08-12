@@ -8,7 +8,7 @@
 
 ### 🛠️ **Skills & Experience**
 
-- **Proficient in:** `PHP`, `Java`
+- **Proficient in:** `PHP`, `Java`, `Kotlin`, `Js`, `Ts`
 - **Familiar with:** Backend, Web, Android Development
 - **Additional skills:** 
   - Reverse Engineering Android applications
