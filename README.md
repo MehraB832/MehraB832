@@ -23,6 +23,10 @@
 
 ### 📫 **Contact Me**
 *To contact me, please send me an email, as I am not on social media.*
+  - Work email:
+
+  - Personal email:
+      - mehrabshafae@gmail.com
 
 ---
 
